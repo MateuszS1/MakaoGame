@@ -1,0 +1,33 @@
+C:\Users\sm44502\Desktop\Semestr 7\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.AssemblyReference.cache
+C:\Users\sm44502\Desktop\Semestr 7\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.GameScreen.resources
+C:\Users\sm44502\Desktop\Semestr 7\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.StartScreen.resources
+C:\Users\sm44502\Desktop\Semestr 7\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.GenerateResource.cache
+C:\Users\sm44502\Desktop\Semestr VII\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.AssemblyReference.cache
+C:\Users\sm44502\Desktop\Semestr VII\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.GameScreen.resources
+C:\Users\sm44502\Desktop\Semestr VII\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.StartScreen.resources
+C:\Users\sm44502\Desktop\Semestr VII\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.GenerateResource.cache
+C:\Users\sm44502\Desktop\Semestr VII\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.HandViewScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.GameScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.HandViewScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.StartScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.EndScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.DrawnCardPlayScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\MakaoGame\MakaoGame\Debug\MakaoGame.InfoScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.DrawnCardPlayScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.EndScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.GameScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.HandViewScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.InfoScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.StartScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.DrawnCardPlayScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.EndScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.GameScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.HandViewScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.InfoScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.StartScreen.resources
+C:\Users\Mateusz\Desktop\Praca Inżynierskia\App\MakaoGameNoComments\MakaoGame\MakaoGame\Debug\MakaoGame.vcxproj.GenerateResource.cache
